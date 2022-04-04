@@ -1,2 +1,2 @@
 # Bootcamp.Carrefour
-Repertorio para Projetos durante o Bootcamps Carrefour na DIO.
+Repertorio para Projetos durante o Bootcamp Carrefour na DIO.
